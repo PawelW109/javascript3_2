@@ -2,3 +2,12 @@ html {
   height: 100%;
   width: 100%;
 }
+
+.box{
+  min-height: 100px;
+}
+
+#cw1t td, #cw1t th, #cw1t table{
+  margin-top: 10px;
+  border: 1px solid black;
+}
